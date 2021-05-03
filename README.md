@@ -1,10 +1,8 @@
-### Hey! I'm Cauã :seedling:
+### Hey! I'm Cauã 🥳
 A junior developer in search of knowledge.
 
-- :earth_americas: I’m currently learning Lua
+- 🎓 I’m currently learning **Lua**
 
 <br />
 
-### Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png%22%3E</code>
+![cauaajk GitHub stats](https://github-readme-stats.vercel.app/api?username=cauaajk&show_icons=true&theme=dark) <br /><br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucaspk&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
