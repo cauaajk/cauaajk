@@ -1,4 +1,4 @@
-### Hey! I'm Cauã 🥳
+### Hey! I'm Cauã ❤
 A junior developer in search of knowledge.
 
 - 🎓 I’m currently learning **Lua**
